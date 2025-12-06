@@ -1,8 +1,7 @@
 ---
-name: Bug
-about: Create a bug report
+name: Question
+about: Ask a generic question
 title: ''
-type: bug
 
 ---
 
