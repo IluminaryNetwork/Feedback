@@ -6,3 +6,11 @@ type: question
 
 ---
 
+## ❓ Clear and concise question:
+
+
+## 🎯 Objective / Purpose / Goal
+
+
+## 💭 Details
+
