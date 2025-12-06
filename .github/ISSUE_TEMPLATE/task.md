@@ -7,4 +7,10 @@ assignees: ''
 
 ---
 
+## 📌 Clear and concise description of the task:
 
+
+## 🎯 Objective / Purpose / Goal
+
+
+## 📋 Task Details
