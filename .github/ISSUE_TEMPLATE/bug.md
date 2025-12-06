@@ -7,7 +7,7 @@ assignees: ''
 
 ---
 
-## 🐞 Clear and concise description of what the bug is:
+## 🐞 Clear and concise description of the bug:
 
 
 ## ✅ Expected Behavior:
